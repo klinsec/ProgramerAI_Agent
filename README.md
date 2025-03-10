@@ -62,4 +62,3 @@ Para soporte o consultas, contacte con el desarrollador o consulte la documentac
 
 Versión: 1.0.1
 Desarrollador: klinsec Anatine
-
