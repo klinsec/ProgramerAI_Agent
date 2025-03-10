@@ -1,0 +1,6 @@
+[GENERAL]
+ruta_experimental = .\Perfiles
+
+[PERFILES]
+perfiles_por_defecto = Organizador basico,ReelOrganizerPro,Treeexporter,Whisper
+

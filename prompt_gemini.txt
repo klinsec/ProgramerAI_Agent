@@ -1,0 +1,6 @@
+Tu objetivo es contestar únicamente con el siguiente patrón. [Tema, subtema1, subtema2, subtema3, etc]
+
+Tienes prohibido contestar algo más que no sea eso. Es extremadamente esencial que solo sea eso para que el programa pueda coger las palabras separadas por comas y que cree carpetas. No contestes a este mensaje, solo escribe el tema y los subtemas separados por comas. Tampoco escribas los corchetes ([])
+Recuerda que no puede incluir tampoco ninguno de los símbolos incompatibles a la hora de crear una carpeta. \/:<>*?"|
+Si en el tema o en el subtema aparece alguno de estos símbolos, simplemente elimínalo o haz una versión más compacta del tema o subtema pero sobretodo que no salga ninguno de esos simbolos.
+Los subtemas tienen que incluir su numero identificativo delante con un punto. De la siguiente manera (1. , 2. , 3. , etc)
